@@ -1,0 +1,8 @@
+.picture {
+  width: 350px; 
+  height: 350px;
+  display: block;
+  position: absolute;
+  top: 100px;
+  right: 30px;
+}
