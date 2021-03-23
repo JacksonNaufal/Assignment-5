@@ -5,7 +5,7 @@ let perimeter = 0
 
 document.getElementById('button').addEventListener('click', button)
 
-function  button () {
+function button () {
   diameter = document.getElementById('box').value
   diameter = parseInt(diameter)
   number = quater * Math.PI * diameter * diameter
@@ -19,7 +19,7 @@ function  button () {
   document.getElementById('para1').innerHTML =
   'Circumference of Circle Below!'
   document.getElementById('paratwo').innerHTML =
-  number  
+  number
   diameter = parseInt(diameter)
   number = diameter / 2
   document.getElementById('para3').innerHTML =
