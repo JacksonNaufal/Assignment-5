@@ -1,7 +1,6 @@
 let diameter = 0
 let number = 0
-let quater = 0.25
-let perimeter = 0
+const quater = 0.25
 
 document.getElementById('button').addEventListener('click', button)
 
