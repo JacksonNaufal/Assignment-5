@@ -1,10 +1,9 @@
-let diameter = 0 
+let diameter = 0
 let number = 0
 let quater = 0.25
 let perimeter = 0
 
 document.getElementById('button').addEventListener('click', button)
-
 
 function  button () {
   diameter = document.getElementById('box').value
@@ -35,8 +34,4 @@ function  button () {
   number
   document.getElementById('picture').src =
   'Diameter circle.gif'
-  
-  
 }
-
-

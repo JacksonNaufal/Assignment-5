@@ -1,5 +1,5 @@
 .picture {
-  width: 350px; 
+  width: 350px;
   height: 350px;
   display: block;
   position: absolute;
@@ -7,6 +7,6 @@
   right: 30px;
 }
 #picture  {
-  width: 400px; 
+  width: 400px;
   height: 400px;
 }
