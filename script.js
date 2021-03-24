@@ -42,7 +42,7 @@ function button () {
   document.getElementById('paragraph').style.display = 'block'
   document.getElementById('para').style.display = 'block'
   document.getElementById('para1').style.display ='block'
-  document.getElementById('paratwo').style.display ='block'
+  document.getElementById('paratwo').style.display = 'block'
   document.getElementById('para3').style.display = 'block'
   document.getElementById('parathree').style.display = 'block'
   document.getElementById('para4').style.display = 'block'
@@ -52,17 +52,16 @@ function button () {
   document.getElementById('math').style.display = 'none'
 }
 
- function button2 () {
+function button2 () {
   document.getElementById('paragraph').style.display = 'none'
   document.getElementById('para').style.display = 'none'
   document.getElementById('para1').style.display = 'none'
   document.getElementById('paratwo').style.display = 'none'
   document.getElementById('para3').style.display = 'none'
-  document.getElementById('parathree').style.display =  'none'
+  document.getElementById('parathree').style.display = 'none'
   document.getElementById('para4').style.display = 'none'
   document.getElementById('parafour').style.display = 'none'
   document.getElementById('final').style.display = 'none'
   document.getElementById('button2').style.display = 'none'
   document.getElementById('math').style.display = 'block'
-
  }
