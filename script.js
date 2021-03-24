@@ -41,7 +41,7 @@ function button () {
   document.getElementById('button2').style.display = 'block'
   document.getElementById('paragraph').style.display = 'block'
   document.getElementById('para').style.display = 'block'
-  document.getElementById('para1').style.display ='block'
+  document.getElementById('para1').style.display = 'block'
   document.getElementById('paratwo').style.display = 'block'
   document.getElementById('para3').style.display = 'block'
   document.getElementById('parathree').style.display = 'block'
@@ -64,4 +64,4 @@ function button2 () {
   document.getElementById('final').style.display = 'none'
   document.getElementById('button2').style.display = 'none'
   document.getElementById('math').style.display = 'block'
- }
+}
