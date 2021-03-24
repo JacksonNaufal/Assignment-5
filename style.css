@@ -15,3 +15,9 @@
 #button2 {
   display: none;
 }
+
+#math {
+  width: 500px; 
+  height: 300px;
+  display: none;
+}

@@ -49,6 +49,7 @@ function button () {
    document.getElementById('parafour').style.display ='block'
    document.getElementById('final').style.display ='block'
    document.getElementById('button2').style.display ='block'
+   document.getElementById('math').style.display ='none'
 }
 
  function button2 () {
@@ -62,5 +63,6 @@ function button () {
    document.getElementById('parafour').style.display = 'none'
    document.getElementById('final').style.display = 'none'
    document.getElementById('button2').style.display = 'none'
+   document.getElementById('math').style.display = 'block'
 
  }
