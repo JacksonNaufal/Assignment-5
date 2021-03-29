@@ -35,7 +35,7 @@ function button () {
   document.getElementById('picture').src =
   'Diameter circle.gif'
   document.getElementById('final').innerHTML =
-  'Thank you for Using my Area and Circumfrence Calculator!'
+  'Thank you for Using my Area and Circumference Calculator!'
   document.getElementById('final').style.color = 'green'
   document.getElementById('button2').innerHTML = 'Click to Erase!'
   document.getElementById('button2').style.display = 'block'
