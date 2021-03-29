@@ -23,7 +23,7 @@ function button () {
   diameter = parseInt(diameter)
   number = diameter / 2
   document.getElementById('para3').innerHTML =
-  'Radias of Circle Below!'
+  'Radius of Circle Below!'
   document.getElementById('parathree').innerHTML =
   number
   diameter = parseInt(diameter)
